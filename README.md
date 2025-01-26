@@ -1,2 +1,3 @@
 # VueApp
-Progetto in vue.js
+
+Progetto in Vue.js
